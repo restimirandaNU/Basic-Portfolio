@@ -23,7 +23,7 @@ Link to basic-portfolio: https://restimirandanu.github.io/Basic-Portfolio/index.
 <img width="1680" alt="screen shot 2019-02-07 at 12 27 26 am" src="https://user-images.githubusercontent.com/43328718/52394373-b5b84680-2a6f-11e9-87a6-d218428f65ac.png">
 
 
-#Author
+### Author
 Resti Miranda
 
 
