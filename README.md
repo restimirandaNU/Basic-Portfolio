@@ -6,7 +6,7 @@ Title: Basic-Portfolio (First NU Coding Bootcamp homework)
 
 In this assignment, we created a professional portfolio site using HTML/CSS. 
 
-Linked to basic-portfolio: https://restimirandanu.github.io/Basic-Portfolio/index.html
+Link to basic-portfolio: https://restimirandanu.github.io/Basic-Portfolio/index.html
 
 #Screen Shots
 
